@@ -1,0 +1,15 @@
+﻿sedra_num,heb_num,book,chap,verse
+1,א,Song of Songs,1,1
+1*,א*,Song of Songs,5,2
+1,א,Ruth,1,1
+1*,[א*],Ruth,2,12
+1,א,Lamentations,1,1
+1,א,Ecclesiastes,1,1
+2,ב,Ecclesiastes,3,13
+3,ג,Ecclesiastes,7,1
+4,ד,Ecclesiastes,9,7
+1,א,Esther,1,1
+2,ב,Esther,2,5
+3,ג,Esther,3,8
+4,ד,Esther,6,11
+5,ה,Esther,8,16
